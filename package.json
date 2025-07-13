@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "framer-motion": "^12.23.3",
+    "miragejs": "^0.1.48"
+  }
+}
